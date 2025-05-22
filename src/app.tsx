@@ -1,7 +1,7 @@
 import { Outlet } from '@tanstack/react-router';
 import { TanStackRouterDevtools } from '@tanstack/react-router-devtools';
 
-import { Navigation } from './routes';
+import { Navigation } from './components/navigation';
 
 export function App() {
   return (
